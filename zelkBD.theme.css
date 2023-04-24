@@ -76,10 +76,10 @@
   --background-modifier-accent: transparent;
   --background-message-hover: transparent;
   /* text */
-  --text-normal: var(--accent-color);
+  --text-normal: #edf8fe;
   --text-positive: var(--text-normal);
   --text-muted: #6d8692;
-  --text-link: #edf8fe;
+  --text-link: #426cf5;
   --interactive-selected: var(--background-primary);
   --interactive-active: var(--text-normal);
   --interactive-normal: var(--text-normal);
@@ -124,10 +124,10 @@
   --background-modifier-accent: transparent;
   --background-message-hover: transparent;
   /* text */
-  --text-normal: #123354;
+  --text-normal: #426cf5;
   --text-positive: var(--text-normal);
   --text-muted: #8495a7;
-  --text-link: #15a6f0;
+  --text-link: #426cf5;
   --interactive-selected: var(--background-primary);
   --interactive-active: var(--text-normal);
   --interactive-normal: var(--text-normal);
